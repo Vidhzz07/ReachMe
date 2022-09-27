@@ -16,7 +16,7 @@
     <application
         android:allowBackup="true"
         android:icon="@drawable/carpooling_icon"
-        android:label="Travelling Buddy"
+        android:label="ReachMe"
         android:roundIcon="@drawable/carpooling_icon"
         android:supportsRtl="true"
         android:theme="@style/Theme.FinalProjectV1"
